@@ -37,7 +37,7 @@ public class ConfigureSetup {
 		try {
 			prop = new Properties();
 
-			String configpropertiespath = "D:\\Learnings\\HeadSpinAutomation\\HeadSpinAutomationMMT\\src\\main\\java\\com\\makemytrip\\hackathon\\config\\config.properties";
+			String configpropertiespath = "D:\\Learnings\\WorkSpace\\TechNow\\src\\main\\java\\com\\makemytrip\\hackathon\\config\\config.properties";
 			FileInputStream ip = new FileInputStream(configpropertiespath);
 			prop.load(ip);
 		} catch (FileNotFoundException e) {
