@@ -34,6 +34,6 @@ Automate MMT Scenario
 Tests the below flow :
 Login to mmt using username/password
 Select Hotels and apply filter on 
-1. City, checkin/Checkout Date
-2. Guests information details 
-Perform Search.
+ City, checkin/Checkout Date
+ Guests information details 
+ Perform Search.
